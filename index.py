@@ -957,10 +957,10 @@ def interpret_and_export(df, circles, cfg):
 # MAIN
 # ============================================================
 def main():
-    print("╔" + "═" * 58 + "╗")
-    print("║  MOHR CIRCLE & MOHR-COULOMB GEOMECHANICAL ANALYSIS      ║")
-    print("║  Well: 58-32 Main                                       ║")
-    print("╚" + "═" * 58 + "╝")
+    print("+" + "=" * 58 + "+")
+    print("|  MOHR CIRCLE & MOHR-COULOMB GEOMECHANICAL ANALYSIS      |")
+    print("|  Well: 58-32 Main                                       |")
+    print("+" + "=" * 58 + "+")
     
     cfg = CONFIG
     
